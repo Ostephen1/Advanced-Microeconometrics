@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Olawumi Stephen",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello,\nWelcome, and we are going to learn a lot together."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Contact details\n\n\nEducation\n-MA Economics\n\n\nResearch"
   }
 ]
