@@ -1,7 +1,23 @@
 ---
-title: "Olawumi Stephen"
+title: ""
+format: html
 ---
 
-Hello,
+::: columns
+::: {.column width="40%"}
+![](Ola.jpeg)
+:::
 
-Welcome, and we are going to learn a lot together.
+::: {.column width="60%"}
+### Olawumi Stephen,MA Economics
+
+**Graduate Assistant**\
+Department of Economics\
+Memorial University of Newfoundland
+:::
+:::
+
+## About
+
+
+
