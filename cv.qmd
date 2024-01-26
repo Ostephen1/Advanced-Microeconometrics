@@ -19,10 +19,6 @@ editor: visual
 
      A1C 5S7
 
-## Academic Profiles and Website
-
--   {{< fa user >}} Personal Website: [www.ostephen@mun.ca](http://ostephen@mun.ca)
-
 
 ## Education
 
@@ -30,9 +26,63 @@ editor: visual
 
 -   B.Sc. Economics (2013), University of Ilorin
 
+## Skills
+
+-   Excellent Customer service
+
+-   Presentation skills
+
+-   Microsoft Office
+
+-   Detail-oriented and prudent in the performance of duties
+
+-   Good Teamwork
+
+-   Excellent communication skills and interpersonal skills
+
+-   Excellent interpersonal relationship skills
+
+-   Strong sense of responsibility and commitment to assigned targets and tasks
+
+-   Organization and Planning skills
+
+
+## Work experience 
+
+-   General Assistant
+The Berkeley Scott Agency - London
+June 2022 to August 2022
+
+-   Administrator
+Kim s food - London
+April 2022 to April 2022
+
+-   Teacher
+Government of Nigeria - Ilorin
+December 2016 to August 2020
+
+-   ECONOMIST and PAYROLL AUDITOR
+State of Osun Integrated Payroll and Personnel Management System (IPPMS). - Osogbo
+January 2015 to November 2016
+
+-   Chamber Administrator
+Bolarinwa &Co. Legal firm - Osogbo, Osun State.
+October 2014 to December 2014
+
+## Volunteer Experience
+
+-   Volunteer Customer Service
+Habitat for Humanity – St. John’s, NL
+October 2022 to present.
+
+-   Volunteer Project Administrator
+SAFYI (Science Advocacy for Youngsters initiative) - Osogbo
+September 2020 to March 2022
 
 ## Languages
 
--   English (Native)
+-   English
 
--   French: read, write, speak
+-   French: Beginner
+
+-   Yoruba

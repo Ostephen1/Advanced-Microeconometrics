@@ -24,7 +24,7 @@ format:
 editor: visual
 ---
 
-\thispagestyle{style1}
+{\thispagestyle{style1}
 
 \vspace{-1in}
 
@@ -40,7 +40,7 @@ Questions
 
 Quarto
 
-Create a personal Quarto website hosted on GitHup pages. For this question, you only have to write the link to your page. Please see the video tutorial entitled "Create_Quarto_Website" posted on Nexus. For reference, you can check out my GitHub repository at https://github.com/clairl/clairl.github.io (be sure to check out the "_quarto.yml" file for help with the navigation bar). Your website should include the following:
+Create a personal Quarto website hosted on GitHup pages. For this question, you only have to write the link to your page. Please see the video tutorial entitled "Create_Quarto_Website" posted on Nexus. For reference, you can check out my GitHub repository at <https://github.com/clairl/clairl.github.io> (be sure to check out the "\_quarto.yml" file for help with the navigation bar). Your website should include the following:
 
 An "Index" or "Home" page. This page should include the following:
 
@@ -58,7 +58,7 @@ You may choose to upload a file or write your info on the page.
 
 Contact Information
 
-Navigation bar with "Home", "CV", and "Contact" Buttons. The navigation bar is edited in the "_quarto.yml" file.
+Navigation bar with "Home", "CV", and "Contact" Buttons. The navigation bar is edited in the "\_quarto.yml" file.
 
 \vspace{1in}
 
@@ -84,17 +84,7 @@ Analysis
 
 In this question we compare standard errors based on (incorrect) asymptotic assumptions with those based on alternate (appropriate) estimator (White). Consider one sample drawn from the following data generating process (DGP) which we will simulate in R:
 
-{r}
-set.seed(123)
-n <- 25
-x <- rnorm(n,mean=0.0,sd=1.0)
-beta0 <- 1
-beta1 <- 0
-## x is irrelevant in this model, the data generating process is as follows:
-dgp <- beta0 + beta1*x
-## The residual is heteroskedastic by construction
-e <- x^2*rnorm(n,mean=0.0,sd=1.0)
-y <- dgp + e
+{r} set.seed(123) n \<- 25 x \<- rnorm(n,mean=0.0,sd=1.0) beta0 \<- 1 beta1 \<- 0 \## x is irrelevant in this model, the data generating process is as follows: dgp \<- beta0 + beta1*x \## The residual is heteroskedastic by construction e \<- x\^2*rnorm(n,mean=0.0,sd=1.0) y \<- dgp + e
 
 Compute the OLS estimator of $\beta_2$ and its standard error using the lm() command in R or the reg command in Stata for the model $y_i=\beta_1+\beta_2 x_i+\epsilon_i$ based on the DGP given above. Next, compute the standard error of $\hat\beta_2$ by computing $\hat\sigma^2(X'X)^{-1}$ in using matrix commands in R or Stata, and verify that the two standard error estimates are identical.
 
@@ -123,4 +113,3 @@ Compute the heteroskedasticity-robust standard error for the estimation in part 
 \vspace{1in}
 
 Use all three years of data and estimate the model by fixed effects. Discuss the size and statistical significance of the deterrent effect compared with only using 1990 and 1993.
----
